@@ -1,4 +1,4 @@
-# Lógica para Computação
+# Engenharia de Software Experimental
 
 -  Professor: Sabrina Marczak
 -  Código: 46507-02
